@@ -263,6 +263,10 @@ a:focus {
     .content-section {
         padding-top: 250px;
     }
+    
+    #qualifications {
+        padding-top: 150px;
+    }
 
     .qualifications-section {
         padding: 100px 0;
