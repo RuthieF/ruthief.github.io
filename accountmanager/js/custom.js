@@ -1,7 +1,7 @@
 +function ($) {
   'use strict';
 
-  $('a.pop').popover();
+  $('a.btn').popover();
 
 	$('.page-scroll a, a.page-scroll').bind('click', function(event) {
 	    var $anchor = $(this);
