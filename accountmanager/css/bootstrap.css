@@ -4414,14 +4414,24 @@ a.list-group-item.active > .badge,
   -webkit-transition: all .2s ease-in-out;
           transition: all .2s ease-in-out;
 }
-.thumbnail > img,
-.thumbnail a > img {
+.thumbnail  img,
+.thumbnail a  img {
   display: block;
   max-width: 100%;
   height: auto;
   margin-right: auto;
   margin-left: auto;
+  max-height: 230px;
 }
+
+.thumbnail .image {
+  height: 230px;
+  display: table-cell;
+  vertical-align: middle;
+  width: 268px;
+  text-align: center;
+}
+
 a.thumbnail:hover,
 a.thumbnail:focus,
 a.thumbnail.active {
@@ -4430,6 +4440,13 @@ a.thumbnail.active {
 .thumbnail .caption {
   padding: 9px;
   color: #333;
+  height: 200px;
+}
+.thumbnail .button {
+  padding: 9px;
+}
+.thumbnail .button a{
+  display: block;
 }
 .alert {
   padding: 15px;
