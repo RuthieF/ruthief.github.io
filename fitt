@@ -29,6 +29,7 @@
       <div class="wrap-cont">
         <div class="wrap">
           <div class="attention">
+            <li><a href="http://alpha.fi.tt/join#/login">Sign in</a></li>
             <h1>Challenge yourself.</h1>
             <h1>Challenge your friends.</h1>
           </div>
@@ -36,10 +37,11 @@
       </div>
       <nav class="nav">
         <ul>
-          <li><a href="/challenges">Challenges</a></li>
+          <li><a href="/Features">Features</a></li>
+          <li><a href="/Benefits">Benefits</a></li>
           <li class="logo"><a href="http://fi.tt"><img src="/img/logo-fitt.png" alt="Fitt"></a></li>
           <li><a href="http://alpha.fi.tt/join#/signup">Join</a></li>
-          <li><a href="http://alpha.fi.tt/join#/login">Sign in</a></li>
+          <li><a href="appstore">Download></a></li>
         </ul>
       </nav>
     </section>
@@ -49,40 +51,31 @@
         <div class="wrap">
           <div class="attention">
             <img src="/img/img-bargraph.png" alt="View your progress">
-            <p>Challenge yourself.</p>
-            <p>Personalized goals that are based on your steps, not anyone else’s. Challenge yourself to step past your average - even if it’s just by a single step.</p>
+            <h2>What Makes Fitt Unique</h2>
+          <article class="description">
+            <img src="/img/fitt-diagrams_social.png" alt="It's social, across devices.">
+            <p>- It’s social, across devices.</h2>
+            <p>It doesn’t matter what mobile device or fitness tracker you have, Fitt lets you connect. Instantly find Facebook, Jawbone UP and Fitbit friends so you can motivate and challenge each other.</p>vvvvvv</p>
           </div>
         </div>
       </div>
     </section>
 
-    <section class="wide main">
-      <div class="wrap-cont">
-        <div class="wrap">
-          <div class="attention">
-            <img src="/img/img-challengeicon.png" alt="Challenge!">
-            <p>Challenge your friends.</p>
-            <p>It’s more fun with friends. Fire up that competitive spirit to step past your friends. It doesn’t matter if they rock a Jawbone UP or sport a Fitbit.</p>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="wide featured">
+        <section class="wide featured">
       <div class="wrap-cont">
         <div class="wrap">
           <article class="split">
-            <h2>Join. Connect. Move.</h2>
+            <h2>Join. Connect. Start Moving.</h2>
 
-            <p>It's that simple. Download our iPhone app or start on the web app. Join Fitt and connect your activity tracker so we know how many steps you move. Then start moving!</p>
+            <p>It's that simple. Download the iPhone app or bookmark the web app. Sign into Fitt and connect your activity tracker to join, then start moving!</p>
 
-            <p>We'll analyze your past activity and give you a weekly goal to hit, and track your progress along the way.</p>
+            <p>We'll analyze your past movement activity, give you a weekly goal to hit, and track your progress along the way.</p>
 
             <a href="https://itunes.apple.com/us/app/fitt-challenges-friends-for/id799179253?mt=8">
-              <img class="btn-app" src="/img/itunes-appstore-us.svg" alt="Download Fitt on the App Store">
+              <img class="btn-app" src="/img/itunes-appstore-us.svg" alt="Download Fitt in the App Store">
             </a>
             <a href="http://alpha.fi.tt/join#/login">
-              <img class="btn-app" src="/img/btn-fitt-web.svg" alt="Use the Fitt Web App">
+              <img class="btn-app" src="/img/btn-fitt-web.svg" alt="Bookmark the Fitt Web App"> Coming Soon To the Andriod Store
             </a>
           </article>
           <article class="split">
@@ -92,6 +85,18 @@
               </a> -->
             </div>
           </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="wide main">
+      <div class="wrap-cont">
+        <div class="wrap">
+          <div class="attention">
+            <img src="/img/img-challengeicon.png" alt="Challenge!">
+            <p>Why Fitt?</p>
+            <p>Yourself: Personalized goals that are based on your steps, not anyone else’s. Challenge yourself to step past your average - even if it’s just by a single step. Friends: It’s more fun with friends. Fire up that competitive spirit to step past your friends. It doesn’t matter if they rock a Jawbone UP or sport a Fitbit.</p>
+          </div>
         </div>
       </div>
     </section>
